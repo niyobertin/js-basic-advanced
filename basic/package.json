@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "basic",
+  "version": "1.0.0",
+  "main": "array.methods.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node array.methods.js",
+    "dev": "nodemon array.methods.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
